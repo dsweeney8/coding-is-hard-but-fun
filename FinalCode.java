@@ -32,21 +32,73 @@ public class FinalCode {
 		 int evenMonth = 2;}
 	   {
 		
-		   System.out.print("Enter your number of dogs");  
-		   int city = 3;
+		   System.out.println("Enter your number of dogs");  
+		   int numberOfDogs = input.nextInt();
+		   int badCity = 0;
 		   
-		if (dog >= 0); 
-		city = cleveland; {
+		   if (numberOfDogs = 0); 
 		
-		if (dogs == 1);
+			city = cleveland; {
+		
+		if (dogs = 1);
 		city = maimi; {
 		
-			if (dogs == 2);
+			if (dogs = 2);
 			city = dayton;
 			// Depending on how many dogs you have, shows what city you live in
 		}
 		
+		System.out.println("Whats your favorite food");
+		String a = "pizza";
+		String b = "pasta";
+		String c = "seafood";
+		String d = "chicken";
+		// Depending on you favorite food, shows what your eye color is
+		if (a = ("pizza")) {
+				int pizza = brown;{
+				int pasta = blue;{
+				int seafood = green;{
+				int chicken = black;
+			{
 				
+				
+				System.out.print("What month were you born in");
+				String a ="256000.76";
+				String b = "3687105.42";
+				String c = "86.23";
+				String d = "0";
+				// Depending on your birth mouth, shows the balance of your retirement
+				
+				if (month = 1-4);
+				System.out.println("January February March April"); 
+				
+				
+				
+				else if (month = 5-9);
+				System.out.println("May June July August");
+				 
+				if-then-else (month = 9-12);
+				System.out.println("September October December");
+				
+				
+		System.out.println("FirstName + LastName");
+		System.out.println("What Year Will You Retire");
+		System.out.println("Enter Bank Balance");
+		System.out.println("City of Vacation Home");
+		System.out.println("Enter your Way of Transporation")
+				
+					
+							
+				}
+			}
+			
+					
+			
+		}
+		
+			
+		
+		
 			
 		
 			
