@@ -85,9 +85,13 @@ public class FinalCode {
 		System.out.println("What Year Will You Retire");
 		System.out.println("Enter Bank Balance");
 		System.out.println("City of Vacation Home");
-		System.out.println("Enter your Way of Transporation")
+		System.out.println("Enter your Way of Transporation"); {
+			
+		}
 				
-					
+		//[Sara] [Long] will retire in [2020] with a bank balance of [0] dollars & rides the [bus].
+		
+		
 							
 				}
 			}
